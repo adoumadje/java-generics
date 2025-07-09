@@ -1,4 +1,4 @@
-package com.example.bounded_types;
+package com.example.generics.bounded_types;
 
 public class Person implements Comparable<Person> {
     private String name;

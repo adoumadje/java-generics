@@ -1,4 +1,4 @@
-package com.example.type_inference;
+package com.example.generics.type_inference;
 
 import java.util.ArrayList;
 import java.util.List;

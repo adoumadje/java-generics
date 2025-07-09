@@ -1,4 +1,4 @@
-package com.example.generics;
+package com.example.generics.generics_basic;
 
 public class HashtableClient {
     public static void main(String[] args) {

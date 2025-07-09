@@ -1,4 +1,4 @@
-package com.example.generics;
+package com.example.generics.generics_basic;
 
 public class Hashtable<K, V> {
     private K key;

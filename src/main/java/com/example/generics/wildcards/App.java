@@ -1,11 +1,8 @@
-package com.example.wildcards;
-
-import org.w3c.dom.css.Rect;
+package com.example.generics.wildcards;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Objects;
 
 public class App {
 //    private static void print(List<Object> list) {

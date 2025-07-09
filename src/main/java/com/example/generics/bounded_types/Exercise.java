@@ -1,4 +1,4 @@
-package com.example.bounded_types;
+package com.example.generics.bounded_types;
 
 import java.util.Arrays;
 

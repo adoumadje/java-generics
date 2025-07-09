@@ -1,4 +1,4 @@
-package com.example.using_object;
+package com.example.generics.using_object;
 
 public class StoreClient {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.example.bounded_types;
+package com.example.generics.bounded_types;
 
 public class App {
     private static <T extends Comparable<T>> T calculateMin(T t1, T t2) {

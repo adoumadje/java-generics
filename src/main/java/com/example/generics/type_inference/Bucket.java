@@ -1,4 +1,4 @@
-package com.example.type_inference;
+package com.example.generics.type_inference;
 
 public class Bucket<T> {
     private T item;

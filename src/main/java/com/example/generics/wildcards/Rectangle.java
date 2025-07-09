@@ -1,4 +1,4 @@
-package com.example.wildcards;
+package com.example.generics.wildcards;
 
 public class Rectangle extends Shape {
     @Override

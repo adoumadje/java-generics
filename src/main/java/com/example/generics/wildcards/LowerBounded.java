@@ -1,4 +1,4 @@
-package com.example.wildcards;
+package com.example.generics.wildcards;
 
 import java.io.Serializable;
 import java.util.ArrayList;
